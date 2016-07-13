@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Created by Ian Thompson on 7/13/16
+# Copyright © 2015 Ian Thompson and Nice Lion Technologies. All rights reserved.
+
+
+cd YOUR_DESIRED_OUTPUT_DIRECTORY
+
+run="easy-audio"
+eval $run
